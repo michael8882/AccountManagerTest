@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ApiTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_phone_label">Phone : </string>
+    <string name="main_country_label">International Code :</string>
+    <string name="main_submit">Submit</string>
+    <string name="main_pin_label">Pin :</string>    
+    
+    <string name="toast_phone_error">Please enter the valid phone number with length of less than 11 characters.</string>
+    <string name="toast_international_error">Please enter the valid international code with length of 3 characters.</string>
+    <string name="toast_error">An Error Occurred while operation!</string>
+    <string name="account_label">ApiTest</string>
+    
+    <string name="toast_add_token_success">Your Token has been added successfully.</string>
+    <string name="toast_add_token_error">An Error Occurred while adding your token.</string>
+</resources>
